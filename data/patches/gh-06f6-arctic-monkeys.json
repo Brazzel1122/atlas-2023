@@ -1,0 +1,51 @@
+{
+	"id": -1,
+	"name": "Arctic Monkeys",
+	"description": "Arctic Monkeys are a British indie rock band formed in Sheffield in 2002. This space represents the cover of the most prominent album called \"AM\" released in 2013, as well as the popular and fan beloved song \"505\" from the \"Favorite Worst Nightmare\" album. AM is among the 30 most streamed albums on Spotify and was ranked 346th on Rolling Stone's list of the 500 greatest albums of all time. Popular songs of the album include \"Do I Wanna Know\", \"I Wanna Be Yours\" and \"Why’d You Only Call Me When You’re High?\".",
+	"links": {
+		"website": [
+			"https://arcticmonkeys.com/"
+		],
+		"subreddit": [
+			"arcticmonkeys"
+		]
+	},
+	"path": {
+		"250": [
+			[
+				14,
+				-992
+			],
+			[
+				12,
+				-986
+			],
+			[
+				5,
+				-982
+			],
+			[
+				6,
+				-975
+			],
+			[
+				43,
+				-976
+			],
+			[
+				38,
+				-983
+			],
+			[
+				39,
+				-991
+			]
+		]
+	},
+	"center": {
+		"250": [
+			24,
+			-983
+		]
+	}
+}
